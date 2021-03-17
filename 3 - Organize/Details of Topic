@@ -1,0 +1,56 @@
+Hey Developers,
+
+This section covers below sub topics
+
+Explain the key capabilities of the data governance service 
+1.a. Explain the use of Watson Knowledge Catalog in a data governance solution 
+1.b. Explain the use of DataStage in a data governance solution
+1.c. Explain the use of Regulatory Accelerator in a data governance solution 
+ 
+2. Explain the different types of data governance activities 
+2.a Describe the role of data protection rules and policies  
+2.b Describe the role of categories, business terms, classifications, and data classes  
+2.c Summarize the process to curate data 
+
+
+3. Explain the capabilities enabled by a catalog 
+3.a Describe the process of creating catalog artifacts  
+3.b Describe the process of curating data assets  
+3.c Describe how to manage workflows in Watson Knowledge Catalog  
+3.d Explain how a catalog enables users to find data  
+3.e Explain the options for controlling access to assets in a catalog  
+3.f Explain how a catalog enables users to work with data in projects  
+ 
+4. Describe how to use data transformation tools 
+4.a Explain the differences between the data transformation tools in Cloud Pak for Data  
+4.b Describe the data request process  
+4.c Describe how to expose data to an analytics project  
+
+
+5. Leverage the community capabilities for knowledge catalogs 
+5.a Describe the benefits of building a community around a knowledge catalog  5.b Describe the importance of the review, ranking and comment capabilities provided to collaborators and users of the catalog  
+5.c Describe the benefits of using multiple catalogs  
+ 
+6. Describe the regulatory capabilities of Cloud Pak for Data 
+6.a Explain the primary benefit of using the Regulatory Accelerator service  
+6.b Describe the technical components used in the Regulatory Accelerator to interpret  regulations.  
+6.c Explain the use case for using a Regulatory Compliance Project  
+ 6.d Describe the usage of a Regulatory Compliance project  
+6.e List the industries that the Regulatory Accelerator can help with in a Regulatory  
+ Compliance project 
+6.f Describe ways to map business to regulatory terms  
+6.g Explain the difference between governance and regulatory compliance  
+ 
+7. Discuss the purpose of the Industry Accelerators
+7.a  List the industries the use cases help 
+7.b  List the services used by the Industry Accelerators
+7.c  List what advantages an industry accelerator afford a project
+7.d  Explain where to download accelerators 
+7.e  Explain where to find documentation about the accelerators 
+7.f  Explain how to import and deploy accelerator projects 
+7.g  List the services needed to use the accelerator
+7.h  List the use cases that this accelerator can be used with/for 
+ 
+8. Identify governance options for analytics projects assets 
+8.a Identify the different analytics asset types that can be added to the  governance catalogs  
+8.b  Describe how to add the different types of analytics assets to the governance catalog  

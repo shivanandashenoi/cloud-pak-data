@@ -1,0 +1,125 @@
+Hey Developers,
+
+Please find extra links for self study under main topic "Infuse"
+
+IBM AI : 
+https://www.ibm.com/artificial-intelligence
+
+AI for Customer Service : 
+https://www.ibm.com/cloud/ai/customer-service
+
+Watson AIOps : 
+https://www.ibm.com/watson/aiops
+
+Manage risk and improve compliance : 
+https://www.ibm.com/industries/banking-financial-markets/risk-compliance
+
+Artificial intelligence in healthcare : 
+https://www.ibm.com/watson-health/learn/artificial-intelligence-healthcare
+
+Deriving insight into IT operations : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/svc-aiops/aiops-insight-ovr.html
+
+Services in the Catalog : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/services.html#services__ai
+
+Common use cases : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/usecase/use-cases.html
+
+Detecting and investigating financial crimes : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/fci/fci-get-started.html
+
+Financial Services Workbench : 
+https://fswb-documentation.knowis.net/2.7/
+
+Modeling and reporting with Planning Analytics:
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/svc-pa/pa-get-started.html
+
+Planning Analytics :
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/svc-welcome/pa.html
+
+Planning Analytics Workshop : 
+https://www.ibm.com/support/knowledgecenter/SSD29G_2.0.0/com.ibm.swg.ba.cognos.tm1_prism_gs.2.0.0.doc/pa_paw.html
+
+Planning Analytics for MS Excel :
+https://www.ibm.com/support/knowledgecenter/SSD29G_2.0.0/com.ibm.swg.ba.cognos.ug_cxr.2.0.0.doc/pa_pax.html 
+
+Building and deploying Decision Optimization models : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/do/ICPD_home.html
+
+Detecting and investigating financial crimes : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/fci/fci-get-started.html
+
+Welcome to IBM Financial Crimes Insight : 
+https://www.ibm.com/support/knowledgecenter/SSCKRH_6.5.1/main/welcome.html
+
+Dashboard & Stories : 
+https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ca_gtstd.doc/c_gtstd_dashboards_stories.html 
+Dashboards : 
+https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/wa_dashboard_discoveryset_intro.html
+Stories : 
+https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_ca_dshb.doc/ca_stories_intro.html 
+
+Explorations : 
+https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ca_explorations.doc/ca_explorations_intro.html 
+
+Getting started in IBM Cognos Analytics - Reporting : 
+https://www.ibm.com/support/knowledgecenter/SSEP7J_11.1.0/com.ibm.swg.ba.cognos.ug_cr_rptstd.doc/c_understand_rs.html 
+
+Building an assistant with Watson Assistant : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/watson/assistant.html
+
+Getting started with Watson Assistant : 
+https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-getting-started
+Build a dialog : https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-getting-started#getting-started-build-dialog
+Tutorial: Building a complex dialog : https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-tutorial
+Add a dialog node with slots : https://cloud.ibm.com/docs/assistant-data?topic=assistant-data-tutorial-slots#tutorial-slots-add-dialog-with-slots
+
+Finding answers with Watson Discovery :
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/watson/discovery.html
+Project types : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-projects#project-type
+Creating a collection : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-collections#createcollection
+Supported file types and general requirements : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-collections#supportedfiletypes
+Configuring Cloud Pak for Data data sources : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-collection-types
+Facets : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-facets
+Configuring your collection with Smart Document Understanding : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-configuring-fields
+Creating enrichments : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-create-enrichments
+Query overview : https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts
+
+Administering Watson Language Translator : 
+https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-lang/language-translator-admin.html
+Transcribing speech with Watson Speech to Text : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/watson/speech-to-text.html
+Transcribe audio with options : 
+https://cloud.ibm.com/docs/speech-to-text-data?topic=speech-to-text-data-gettingStarted#transcribeOptions
+Making a recognition request : 
+https://cloud.ibm.com/docs/speech-to-text-data?topic=speech-to-text-data-basic-request
+Synthesizing speech with Watson Text to Speech :
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/cpd/svc/watson/text-to-speech.html
+Getting started with Text to Speech : 
+https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-gettingStarted
+The HTTP interface : 
+https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-usingHTTP
+The WebSocket interface :
+https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-usingWebSocket
+Neural voices : 
+https://cloud.ibm.com/docs/text-to-speech-data?topic=text-to-speech-data-voices#neuralVoices
+
+Retail Predictive Analytics with Weather  : 
+https://community.ibm.com/community/user/cloudpakfordata/viewdocument/retail-predictive-analytics-with-we
+XXXXXXX : 
+https://community.ibm.com/accelerators/catalog/content/Life-Event-Prediction-Accelerator
+Utilities Customer Attrition Prediction : 
+https://community.ibm.com/accelerators/catalog/content/Utilities-Customer-Attrition-Prediction
+Building and deploying models with Watson Machine Learning :
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/wsj/analyze-data/ml-overview_local.html 
+Building and deploying Decision Optimization models : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/do/ICPD_home.html
+Validating and monitoring AI models with Watson OpenScale : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/wos/getting-started.html
+Prepare models for monitoring : 
+https://www.ibm.com/support/knowledgecenter/SSQNUZ_3.0.1/wos/wos-monitor-overview.html
+
+IBM Watson OpenScale : 
+https://www.ibm.com/cloud/watson-openscale
+
